@@ -1,0 +1,152 @@
+.Cybermind-assignment-task{
+    border: 1px solid 
+    #BCBCBC;
+    border-radius: 15px;
+    width: 35%;
+    margin: auto;
+    height: auto;
+    padding: 20px;
+}
+.Firstpart-icons-line {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Firstpart-icons-line img {
+    margin-right: 10px;
+  }
+  
+  .Firstpart-icons-line img:first-child {
+    margin-right: auto;
+  }
+  .inputbox-secondpart{
+    padding: 2px;
+    width: 95%;
+    height: 10vh;
+  }
+  .inputbox-secondpart input{
+    border-radius: 30px;
+  }
+  .thirdpart-assign-dropdown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5% 0% 0% 0%;
+    padding: 0px 0px 0px 5px;
+    img{
+        height: 3vh;
+        margin: 2% 0% 0% 0%;
+    }
+  }
+  .thirdpart-assign-dropdown-paragraph{
+    font-style: italic;
+    color: #5A5A5A;
+    font-family: "Inter";
+    font-weight: 500;
+    margin-top: 10px ;
+
+
+  }
+  .person-picture{
+    height: 5vh;
+    width: 30px;
+  }
+  .thirdpart-dropdown {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px;
+    border: 2px solid #EDEDED;
+    padding: 10px;
+    width: 44%;
+}
+  .thirdpart-dropdown-button{
+    border: none;
+    outline: none;
+  }
+
+  .horizontal-line {
+    border-top: 1px solid black; 
+    margin: 20px 0;
+  }
+
+  .fouthpart-note-cybermind{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 1% 0% 0% 2%;
+  }
+  .thirdpart-assign-dropdown-paragraph{
+
+  }
+  .fourthpart-input-div{
+
+    margin: 2px 0px -33px 0px;
+    width: 60%;
+
+    input{
+        border-radius: 20px;
+        height: 8vh;
+        border: 1px solid #BCBCBC;
+    }
+  }
+  .Comments-section-innerdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .Comments-secton-paragraph{
+    color: #5A5A5A;
+    font-family: "Inter";
+    font-size: 1rem;
+    font-weight: 700;
+    font-style: italic;
+  }
+  .personpic-image{
+    width: 40px;
+    margin: 0% 4% 0% 1%;
+  }
+  .Comments-secton-para2 {
+    color: #009379;
+    margin: 0px;
+    font-family: "Inter";
+    font-weight: 600;
+}
+.Comments-secton-para3{
+    color: #5A5A5A;
+    font-family: "Inter";
+    font-weight: 400;
+}
+.write-comments{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.commentwrite-input-div {
+    margin-top: 14px;
+    border-radius: 30px;
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #BCBCBC;
+}
+.commentwrite-input-div-input{
+    border: none;
+    width: 86%;
+    outline: none;
+}
+.commentwrite-input-div-input::placeholder {
+    color: #BCBCBC;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 1rem;
+  }
+  .sendbtnimage {
+    width: 19px;
+    height: 3vh;
+    margin: 2% 4% 0% 1%;
+}
+  #input-box{
+    border: 2px solid #BCBCBC;
+  }

@@ -92,6 +92,7 @@ function Firstpart() {
             <div>
               <p className="Comments-section-para2">{comment.author}</p>
               <p className="Comments-section-para3">{comment.text}</p>
+              <p></p>
             </div>
           </div>
         ))}
